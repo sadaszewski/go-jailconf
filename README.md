@@ -1,2 +1,2 @@
 # go-jailconf
-FreeBSD jail.conf file reader/writer
+FreeBSD jail.conf file reader/writer in Go
